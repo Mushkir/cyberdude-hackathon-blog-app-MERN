@@ -16,7 +16,7 @@ const router = createBrowserRouter([
         element: <HomePage />,
       },
       {
-        path: "/view_post/:id",
+        path: "/view_post/",
         element: <ViewPage />,
       },
     ],
